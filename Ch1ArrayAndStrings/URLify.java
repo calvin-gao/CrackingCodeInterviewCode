@@ -23,11 +23,11 @@ public class URLify {
            }
        }
     }
-    public static void main(String [] args){
-        char[] charArray = {'M', 'r', ' ','J', 'o', 'h', 'n' ,' ', 'S', 'm', 'i', 't', 'h'};
-        changeURL(charArray, 13); 
-        for(char c : charArray){
-            System.out.println(c);
-        }
-    }
+    // public static void main(String [] args){
+    //     char[] charArray = {'M', 'r', ' ','J', 'o', 'h', 'n' ,' ', 'S', 'm', 'i', 't', 'h'};
+    //     changeURL(charArray, 13); 
+    //     for(char c : charArray){
+    //         System.out.println(c);
+    //     }
+    // }
 }
