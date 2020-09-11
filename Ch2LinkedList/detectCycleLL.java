@@ -1,5 +1,7 @@
 package Ch2LinkedList;
 
+import Ch2LinkedList.removeDup.ListNode;
+
 public class detectCycleLL {
     public ListNode detectCycle(ListNode head) {
         ListNode slow = head;
